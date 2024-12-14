@@ -3,4 +3,4 @@ O Jogo da Velha é um passatempo atemporal que diverte pessoas de todas as idade
 
 Como Funciona:
 
-Para iniciar a jogada, ambos os jogadores tem que optar por 2 símbolos onde o mesmo irá representá-lo na partida (X) ou (0). Ao iniciar, cada um faz a sua jogada até que um deles complete com o símbolo uma linha, diagonal ou coluna em sequencia e vença a jogada. 
+Para iniciar o game, ambos os jogadores tem que optar por 2 símbolos onde o mesmo irá representá-lo na partida (X) ou (0). Ao iniciar, cada um faz a sua jogada até que um deles complete, uma linha, diagonal ou coluna em sequencia, e vença a jogada. 
