@@ -25,7 +25,7 @@
 - **Jogada automática do Computador:** O computador realiza jogadas automáticas simples.
 - **Exibir tabuleiro:** O tabuleiro é atualizado e exibido a cada jogada.
 
-  # **Limitações:**
+ # **Limitações:**
 
   **Jogadas do computador:** Simples, escolhendo posições livres aleatoriamente. Não utiliza lógica avançada para prever movimentos.
 **Interface limitada:** Funciona exclusivamente via console.
