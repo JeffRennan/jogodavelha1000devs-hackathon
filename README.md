@@ -22,13 +22,10 @@
 - **Modo dois jogadores:** Permitir que duas pessoas joguem entre si.
 - **Tamanho do tabuleiro:** Permitir que o jogador escolha o tamanho do tabuleiro.
 
-<details>
- <summary>
-  public class Main {
-    public static void main(String[] args) {
-        System.out.println("Olá, mundo!");
-    }
-}
- </summary>
-</details>
+**Funcionalidades do game:**
 
+- **Interatividade simples:** O jogo é jogado no terminal, oferecendo uma experiência direta e sem complexidade.
+- **Validação de jogadas:** Garante que as jogadas sejam feitas em posições válidas.
+- **Sistema de vitória** e Empate: Detecta automaticamente quando há um vencedor ou empate.
+- **Jogada automática do Computador:** O computador realiza jogadas automáticas simples.
+- **Exibir tabuleiro:** O tabuleiro é atualizado e exibido a cada jogada.
