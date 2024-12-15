@@ -16,16 +16,18 @@
    - Para iniciar o game, ambos os jogadores tem que optar entre 2 símbolos onde o mesmo irá representá-lo na partida (X) ou (0).
    - Ao iniciar, cada um faz a sua jogada até que um deles complete, uma linha, uma diagonal ou coluna em sequencia, e vença a jogada. Ou termine em empate.
 
- **Possiveis melhorias:**
-
- - **IA:** Tornar a jogada do computador mais estratégica.
-- **Modo dois jogadores:** Permitir que duas pessoas joguem entre si.
-- **Tamanho do tabuleiro:** Permitir que o jogador escolha o tamanho do tabuleiro.
-
-**Funcionalidades do projeto:**
+     **Funcionalidades do projeto:**
 
 - **Interatividade simples:** O game é jogado no terminal, oferecendo uma experiência direta e sem complexidade.
 - **Validação de jogadas:** Garante que as jogadas sejam feitas em posições válidas.
 - **Sistema de vitória e empate:** Detecta automaticamente quando há um vencedor ou empate.
 - **Jogada automática do Computador:** O computador realiza jogadas automáticas simples.
 - **Exibir tabuleiro:** O tabuleiro é atualizado e exibido a cada jogada.
+
+ **Possiveis melhorias:**
+
+ - **IA:** Tornar a jogada do computador mais estratégica.
+- **Modo dois jogadores:** Permitir que duas pessoas joguem entre si.
+- **Tamanho do tabuleiro:** Permitir que o jogador escolha o tamanho do tabuleiro.
+
+
