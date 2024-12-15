@@ -24,7 +24,7 @@
 
 **Funcionalidades do projeto:**
 
-- **Interatividade simples:** O jogo é jogado no terminal, oferecendo uma experiência direta e sem complexidade.
+- **Interatividade simples:** O game é jogado no terminal, oferecendo uma experiência direta e sem complexidade.
 - **Validação de jogadas:** Garante que as jogadas sejam feitas em posições válidas.
 - **Sistema de vitória e empate:** Detecta automaticamente quando há um vencedor ou empate.
 - **Jogada automática do Computador:** O computador realiza jogadas automáticas simples.
