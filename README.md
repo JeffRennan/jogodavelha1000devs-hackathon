@@ -33,7 +33,7 @@
   ---
 **Desenvolvedores:**
 
-   Este projeto foi desenvolvido durante uma *hackathon 1000devs*, com a colaboração da equipe **8devs**:
+   Este projeto foi desenvolvido durante uma *hackathon 1000devs*, com a colaboração da equipe:
 
 * Jefferson Rennan
 * Thiago Vieira
