@@ -11,7 +11,7 @@
 Este projeto faz algo incrível!
 
 ## Exemplo de uso
- //java
+ ´´´java
 public class Main {
     public static void main(String[] args) {
         System.out.println("Olá, mundo!");
