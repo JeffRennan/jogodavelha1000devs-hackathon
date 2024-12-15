@@ -27,8 +27,8 @@
 
  # **Limitações:**
 
-  **Jogadas do computador:** Simples, escolhendo posições livres aleatoriamente. Não utiliza lógica avançada para prever movimentos.
-**Interface limitada:** Funciona exclusivamente via console.
+  - **Jogadas do computador:** Simples, escolhendo posições livres aleatoriamente. Não utiliza lógica avançada para prever movimentos.
+- **Interface limitada:** Funciona exclusivamente via console.
 
  # **Possiveis melhorias:**
 
