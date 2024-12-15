@@ -15,8 +15,7 @@
 
    - Para iniciar o game, ambos os jogadores tem que optar entre 2 símbolos onde o mesmo irá representá-lo na partida (X) ou (0).
    - Ao iniciar, cada um faz a sua jogada até que um deles complete, uma linha, uma diagonal ou coluna em sequencia, e vença a jogada. Ou termine em empate.
-
-     ***
+     
 
  **Funcionalidades do projeto:**
 
@@ -26,7 +25,7 @@
 - **Jogada automática do Computador:** O computador realiza jogadas automáticas simples.
 - **Exibir tabuleiro:** O tabuleiro é atualizado e exibido a cada jogada.
 
-  **Limitações:**
+  # **Limitações:**
 
   **Jogadas do computador:** Simples, escolhendo posições livres aleatoriamente. Não utiliza lógica avançada para prever movimentos.
 **Interface limitada:** Funciona exclusivamente via console.
