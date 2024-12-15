@@ -32,7 +32,7 @@
 
   Este projeto foi desenvolvido durante uma *hackathon 1000devs*, com a colaboração da equipe:
 
-**- Jefferson Rennan**
+*- Jefferson Rennan
 **- Thiago Vieira**
 **- Lucas Lima**
 **- Eduardo Lima**
