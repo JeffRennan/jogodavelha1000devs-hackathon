@@ -17,6 +17,6 @@
  **Possiveis melhorias:**
 
  - **IA** Tornar a jogada do computador mais estratégica.
-- Modo de Dois Jogadores: Permitir que duas pessoas joguem entre si.
-- Tamanho do tabuleiro: Permitir que o jogador escolha o tamanho do tabuleiro.
+- **Modo dois jogadores:** Permitir que duas pessoas joguem entre si.
+- **Tamanho do tabuleiro:** Permitir que o jogador escolha o tamanho do tabuleiro.
 
