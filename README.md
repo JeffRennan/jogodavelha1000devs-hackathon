@@ -22,3 +22,7 @@
 - **Modo dois jogadores:** Permitir que duas pessoas joguem entre si.
 - **Tamanho do tabuleiro:** Permitir que o jogador escolha o tamanho do tabuleiro.
 
+function myFunction() {
+    // ... muito código aqui ...
+    console.log("Resultado final");
+}
