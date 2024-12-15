@@ -33,17 +33,11 @@
   Este projeto foi desenvolvido durante uma *hackathon 1000devs*, com a colaboração da equipe:
   
 -> Jefferson Rennan
-
 -> Thiago Vieira
-
 -> Lucas Lima
-
 -> Eduardo Lima
-
 -> Marcos Vinicius
-
 -> Maiky Caires
-
 -> Taísa Tavares
 
 
