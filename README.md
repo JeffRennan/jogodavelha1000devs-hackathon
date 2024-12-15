@@ -48,3 +48,6 @@
 * Marcos Vinícios
 * Maiky Caires
 * Taísa Tavares
+---
+
+*Contribuições são bem-vindas para melhorias no projeto. Divirta-se!!*
