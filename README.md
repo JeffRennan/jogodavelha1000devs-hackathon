@@ -30,9 +30,9 @@
 - **Modo dois jogadores:** Permitir que duas pessoas joguem entre si.
 - **Tamanho do tabuleiro:** Permitir que o jogador escolha o tamanho do tabuleiro.
 
-  Este projeto foi desenvolvido durante uma *hackathon 1000devs*, com a colaboração da equipe:
-
   ---
+
+   Este projeto foi desenvolvido durante uma *hackathon 1000devs*, com a colaboração da equipe:
 
 * Jefferson Rennan
 * Thiago Vieira
