@@ -1,5 +1,8 @@
- #                                     X) Jogo da velha Game! (0![istockphoto-1365567894-612x612](https://github.com/user-attachments/assets/1c4caa57-e414-49af-bc4c-c3441403bbf7)
 
+![istockphoto-1365567894-612x612](https://github.com/user-attachments/assets/88aeb8fd-d389-4880-8994-b72543a0d865)
+
+ 
+ #                                     X) Jogo da velha Game! (0
    O Jogo da Velha é um passatempo atemporal que diverte pessoas de todas as idades. Sua simplicidade e as infinitas possibilidades de jogadas o tornam um excelente desafio para os jogadores. As jogadas é você contra o computador. Esse (tic tac toe) como é conhecido, está elaborado na linguagem Java.
 
 **Como funciona:**
