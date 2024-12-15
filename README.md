@@ -16,7 +16,7 @@
    - Para iniciar o game, ambos os jogadores tem que optar entre 2 símbolos onde o mesmo irá representá-lo na partida (X) ou (0).
    - Ao iniciar, cada um faz a sua jogada até que um deles complete, uma linha, uma diagonal ou coluna em sequencia, e vença a jogada. Ou termine em empate.
 
-     **Funcionalidades do projeto:**
+ **Funcionalidades do projeto:**
 
 - **Interatividade simples:** O game é jogado no terminal, oferecendo uma experiência direta e sem complexidade.
 - **Validação de jogadas:** Garante que as jogadas sejam feitas em posições válidas.
