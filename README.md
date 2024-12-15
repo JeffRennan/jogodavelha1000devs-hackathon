@@ -6,15 +6,3 @@
    - Para iniciar o game, ambos os jogadores tem que optar por 2 símbolos onde o mesmo irá representá-lo na partida (X) ou (0).
    - Ao iniciar, cada um faz a sua jogada até que um deles complete, uma linha, uma diagonal ou coluna em sequencia, e vença a jogada.
 
-# Meu Projeto Java
-
-Este projeto faz algo incrível!
-
-## Exemplo de uso
-
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Olá, mundo!");
-    }
-}
