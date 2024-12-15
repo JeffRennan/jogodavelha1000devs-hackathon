@@ -4,4 +4,16 @@
 **Como funciona:**
 
    - Para iniciar o game, ambos os jogadores tem que optar entre 2 símbolos onde o mesmo irá representá-lo na partida (X) ou (0).
-   - Ao iniciar, cada um faz a sua jogada até que um deles complete, uma linha, uma diagonal ou coluna em sequencia, e vença a jogada. Ou termine em empate. 
+   - Ao iniciar, cada um faz a sua jogada até que um deles complete, uma linha, uma diagonal ou coluna em sequencia, e vença a jogada. Ou termine em empate.
+
+ **Possiveis melhorias:**
+
+- Inteligência Artificial: Tornar a jogada do computador mais estratégica.
+- Modo de Dois Jogadores: Permitir que duas pessoas joguem entre si.
+- Tamanho do tabuleiro: Permitir que o jogador escolha o tamanho do tabuleiro.
+
+
+
+
+
+     **Use o código dispon**
