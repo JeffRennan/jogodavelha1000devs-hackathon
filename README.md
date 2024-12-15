@@ -31,9 +31,9 @@
 - **Tamanho do tabuleiro:** Permitir que o jogador escolha o tamanho do tabuleiro.
 
   ---
-**Desenvolvedores**
+**Desenvolvedores:**
 
-   Este projeto foi desenvolvido durante uma *hackathon 1000devs*, com a colaboração da equipe:
+   Este projeto foi desenvolvido durante uma *hackathon 1000devs*, com a colaboração da equipe **8devs**:
 
 * Jefferson Rennan
 * Thiago Vieira
